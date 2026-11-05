@@ -86,6 +86,10 @@ left alone, because there it looks just like a lit leaf.
 checks that Lightroom kept the spots and tells you if it didn't. In that case,
  use "Repair as: Separate cleaned TIFF copy".
 
+## My Advice
+- Use this plugin Only when the frame presents various scattered dust particles
+- Remove easy hairs yourself, especially the long ones
+
 ## Credits
 
 Two ideas come from **film dust**, an open-source Photoshop plugin by Magnus
