@@ -1,0 +1,3 @@
+-- File > Plug-in Extras > Film Dust Blower: Preview Dust on Selected...
+
+require("Engine").run(true)
